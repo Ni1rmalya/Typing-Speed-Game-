@@ -37,7 +37,7 @@ A fun and interactive **Typing Speed Game** built using **HTML**, **CSS**, and *
 ## 📂 Project Structure
 
 index.html → Main game UI and layout
-style.css → Styling and responsive design
-script.js → Game logic and event handling
-README.md → Project documentation
+<p>style.css → Styling and responsive design
+<p>script.js → Game logic and event handling
+<p>README.md → Project documentation
 
